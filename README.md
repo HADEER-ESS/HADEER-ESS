@@ -19,6 +19,9 @@
     <a href="https://twitter.com/HadeerEssamKh">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/>
     </a>
+    <a href="https://leetcode.com/hadeeressam21/">
+      <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+    </a>
   </div>
   
   ---
