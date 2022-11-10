@@ -2,6 +2,7 @@
   <h1>
     Hi There, I am Hadeer 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <h3>A frontend and React Native Developer</h3>
   </h1>
   </h1>
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
