@@ -47,7 +47,7 @@
     <div id="FramworksImages">
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ReactJS" title="React JS" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactNative" title="React Native" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="Android" title="Android" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android" title="Android" width="40" height="40"/>
     </div>
   <div>
   
@@ -59,7 +59,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JS" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Kotlin" title="Kotlin" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
     </div>
   <div>
