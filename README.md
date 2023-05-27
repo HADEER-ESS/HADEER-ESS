@@ -31,11 +31,11 @@
   <h3>
     :flying_saucer: About Me:
   </h3>
-  <div>I am a Frontend and React Native Developer.</div>
-        <div>:monocle_face:I am studying Node Js, JavaScript, Data Structure and Algorism, Unit Testing of React JS.</div>
-        <div>:woman_technologist: I am practicing React JS, React Native, TypeScript. </div> 
+  <div>I am a Mobile (React Native / Android) and React JS Developer.</div>
+        <div>:monocle_face:I am interesting in Kotlin, JavaScript, Data Structure and Algorithm, Unit Testing.</div>
+        <div>:woman_technologist: I am practicing React JS, React Native, Android. </div> 
         <div>:nerd_face: Studied Frontend and cross-platform mobile development Track in Information Technology Institute (ITI).</div>
-        <div>:woman_student: Graduated from Faculty Of Science, Zoology department🐇.</div>
+        <div>:woman_student: Graduated from Faculty Of Science, and Information Technology Institute.</div>
   </div>
   
   ---
@@ -47,6 +47,7 @@
     <div id="FramworksImages">
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ReactJS" title="React JS" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactNative" title="React Native" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="Android" title="Android" width="40" height="40"/>
     </div>
   <div>
   
@@ -58,6 +59,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JS" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Kotlin" title="Kotlin" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
     </div>
   <div>
