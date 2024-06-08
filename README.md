@@ -84,7 +84,6 @@
   </div>
   
   ---
-  
  <div id="Database" align="left">
    <h3> :abacus: Database : </h3>
     <div id="DatabaseImages">
@@ -93,5 +92,10 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" width="40" height="40"/>
     </div>
   </div>
+  <br/>
+  <br/>
+  <p align="center" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HADEER-ESS&layout=compact" alt="" title="" width="100%" style="background-color:#000000"/>
+  </p>
 </div>
 
